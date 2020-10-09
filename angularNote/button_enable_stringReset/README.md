@@ -12,7 +12,7 @@ html
 <input type="text" [(ngModel)]="username" />
 
 <button [disabled]="username ===''"
-(click)="onReset()">點擊清空字串(空白字串時所定按鈕)</button>
+(click)="onReset()">點擊清空字串(空白字串時鎖定按鈕)</button>
 ```
 ts檔
 ```

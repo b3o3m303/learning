@@ -3,6 +3,8 @@
 ![image](https://github.com/nataliejian/learning/blob/master/angularNote/enableButton.gif)
 
 宣告value為username
+<br>
+
 html
 ```
 <label>目前字串是：{{username}}</label>
